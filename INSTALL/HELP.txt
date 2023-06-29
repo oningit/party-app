@@ -1,0 +1,29 @@
+------------------------------------
+How to insert the youtube link code? 
+------------------------------------
+	Example: https://studio.youtube.com/video/utq_ZnpnXR4/livestreaming
+	The Youtube Link code is: utq_ZnpnXR4
+
+-----------------------------------
+http://domain.com/register
+Only the admin has access in registration
+
+-----------------------------------
+http://domain.com/permissions/users
+Only the admin has access in role and permission.
+Only the admin can assign users role/permission. 
+Role: Admin or Creator
+
+-----------------------------------
+http://domain.com/pub
+List of the party live streaming. Admin access has all the lists of party live streaming.
+
+-----------------------------------
+http://domain.com/pub/pubcreator
+Form to create a party live streaming
+
+-----------------------------------
+http://domain.com
+Homepage of the website. You can see all the party live streaming that are created.
+
+
