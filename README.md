@@ -27,9 +27,6 @@ Next, run below command.
 And final install Dependencies
 	npm install && npm run dev 
 
-Run migration with fresh
-	php artisan migrate:fresh --seed
-
 4) Install LaravelDaily/laravel-permission-ui Package
 -------------------------------------------------
 First, before installing this package, you need to have the spatie/laravel-permission installed and configured. We already done.
@@ -46,6 +43,10 @@ First, before installing this package, you need to have the spatie/laravel-permi
 	DB_DATABASE=party_app
 	DB_USERNAME=root
 	DB_PASSWORD=
+ 
+ 8) Run migration with fresh
+-------------------------------------------------
+	php artisan migrate:fresh --seed
 
 8) LOGIN ACCESS: (http://domain.com/login)
 -------------------------------------------------
